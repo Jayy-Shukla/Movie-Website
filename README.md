@@ -1,6 +1,6 @@
 Goal of This Project
 
-This project is meant to be a comprehensive and practical way to learn React. Building the project from scratch’ll reinforce core concepts while producing a functional app you can expand on.
+This project is meant to be a comprehensive and practical way to learn React. Building the project from scratch’ll reinforce core concepts while producing a functional app you can expand on. Bascially I have made a movie website that is fully functional, and you can add your favorite movies, search your favorite movies etc, can be done.
 
 🛠 Technologies Used
 React (with hooks)
