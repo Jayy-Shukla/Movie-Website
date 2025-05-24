@@ -23,11 +23,11 @@ cd Learn-React-In-One-Project
 
 Step 3:Install dependencies:
 npm install
-# or
+or
 yarn install
 
 Step 4:Start the development server:
 npm start
-# or
+or
 yarn start
 The application will open at http://localhost:3000/.
